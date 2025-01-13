@@ -1,0 +1,17 @@
+**/.DS_Store
+.vscode/*
+
+# typescript
+**/*.tsbuildinfo
+**/next-env.d.ts
+**/logs/
+**/node_modules/
+**/.env*
+**/.env*.local
+**/*.log
+**/.cache
+
+
+**/.next/
+**/out/
+**/build
