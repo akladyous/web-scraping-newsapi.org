@@ -1,0 +1,9 @@
+{
+    "tech stack": ["pandas", "requests", "Jupyter Notebook", "NewsAPI.org"],
+    "highlights": [
+        "Implemented a Python-based data collection pipeline using the NewsAPI REST API to programmatically retrieve and aggregate news articles based on keyword, source, and popularity filters.",
+        "Processed and normalized JSON API responses into structured tabular datasets with Pandas to support downstream analysis and reuse.",
+        "Designed configurable request workflows with headers, query parameters, and pagination handling to demonstrate secure and flexible API consumption patterns.",
+        "Exported cleaned news data to CSV format, enabling integration with analytics, reporting, or machine learning pipelines."
+    ]
+}
